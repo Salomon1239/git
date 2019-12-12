@@ -1,0 +1,7 @@
+Hello!
+I am Git.
+How about you?
+What's your name?
+My name I lao.
+Nice to see you!
+Nice to see you too!
