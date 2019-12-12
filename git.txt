@@ -5,3 +5,11 @@ What's your name?
 My name I lao.
 Nice to see you!
 Nice to see you too!
+
+
+Hello again!
+Where are you going?
+I am going to the school. and you?
+I'm going to the zoo.
+bye for now!
+Bye!
